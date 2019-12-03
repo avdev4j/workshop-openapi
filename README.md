@@ -36,7 +36,7 @@ Choose those options ... (with open API)
 
 explain files, run JHipster do into api menu an see what is present.
 
-## Create our first resource
+### Create our first resource
 
 define api info
 define a resource, add an endpoint with response and errors
@@ -45,18 +45,18 @@ generate sources -> see what sources have been generated
 
 re-launch app and test api
 
-## mock our first resource 
+### Mock our first resource 
 @see NativeWebRequest
 
-## implement our first resource
+### Implement our first resource
 create a @service 
 add code
 re-run test
 
-## go further
+### Going further
 add array resources ...
 many other things ?
 
-## Consume an API 
+### Consume an API 
 create a new jhipster application
 run open-api client sub generator
