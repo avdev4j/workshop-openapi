@@ -30,7 +30,7 @@ Some examples of plugin for the most populars IDE
 * [VsCode](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
 
 ## Plan
-### Generate your JHipster application
+### Generate our first JHipster application
 create a folder, go inside launch JHipster
 Choose those options ... (with open API)
 
