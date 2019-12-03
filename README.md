@@ -36,7 +36,7 @@ Choose those options ... (with open API)
 
 explain files, run JHipster do into api menu an see what is present.
 
-## create our first resources
+## Create our first resource
 
 define api info
 define a resource, add an endpoint with response and errors
