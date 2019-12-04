@@ -30,32 +30,18 @@ Some examples of plugin for the most populars IDE
 * [VsCode](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
 
 ## Plan
-### Generate our first JHipster application
-create a folder, go inside launch JHipster
-Choose those options ... (with open API)
+### [1. Generate a JHipster application](https://github.com/avdev4j/workshop-openapi/blob/master/1.%20Generate-our-first-JHipster-application.md)
 
-explain files, run JHipster do into api menu an see what is present.
+### [2. Create a resource](https://github.com/avdev4j/workshop-openapi/blob/master/2.%20Create-our-first-resource.md)
 
-### Create our first resource
-
-define api info
-define a resource, add an endpoint with response and errors
-
-generate sources -> see what sources have been generated
-
-re-launch app and test api
-
-### Mock our first resource 
+### Mock a resource 
+test api
+create a @service 
 @see NativeWebRequest
 
-### Implement our first resource
-create a @service 
+### Add your business code 
 add code
 re-run test
-
-### Going further
-add array resources ...
-many other things ?
 
 ### Consume an API 
 create a new jhipster application
