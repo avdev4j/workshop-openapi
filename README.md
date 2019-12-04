@@ -17,7 +17,7 @@ For this JHipster workshop, you must install these softwares :
 |  NPM                         |  `npm -v`          |
 |  JHipster                    |  `jhipster --help` |
 
-Please note the command line to test the if the software is installed and work as expected.
+Use the command line above to test if softwares are installed and work as expected.
 
 For more informations: https://www.jhipster.tech/installation/
 
