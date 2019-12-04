@@ -41,9 +41,6 @@ Some examples of plugin for the most populars IDE
 ### [2. Create a resource](https://github.com/avdev4j/workshop-openapi/blob/master/2.%20Create-a-resource.md)
 
 ### [3. Mock the api](https://github.com/avdev4j/workshop-openapi/blob/master/3.%20Mock-the-api.md)
-test api
-create a @service 
-@see NativeWebRequest
 
 ### Add your business code 
 add code
