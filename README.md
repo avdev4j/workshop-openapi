@@ -36,11 +36,11 @@ Some examples of plugin for the most populars IDE
 
 
 ## Plan
-### [1. Generate a JHipster application](https://github.com/avdev4j/workshop-openapi/blob/master/1.%20Generate-our-first-JHipster-application.md)
+### [1. Generate a JHipster application](https://github.com/avdev4j/workshop-openapi/blob/master/1.%20Generate-a-JHipster-application.md)
 
-### [2. Create a resource](https://github.com/avdev4j/workshop-openapi/blob/master/2.%20Create-our-first-resource.md)
+### [2. Create a resource](https://github.com/avdev4j/workshop-openapi/blob/master/2.%20Create-a-resource.md)
 
-### Mock a resource 
+### [3. Mock the api](https://github.com/avdev4j/workshop-openapi/blob/master/3.%20Mock-the-api.md)
 test api
 create a @service 
 @see NativeWebRequest
