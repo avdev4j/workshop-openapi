@@ -42,7 +42,7 @@ Some examples of plugin for the most populars IDE
 
 ### [3. Mock the api](https://github.com/avdev4j/workshop-openapi/blob/master/3.%20Mock-the-api.md)
 
-### Add your business code 
+### Add a business code 
 add code
 re-run test
 
