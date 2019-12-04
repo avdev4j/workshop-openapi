@@ -42,9 +42,7 @@ Some examples of plugin for the most populars IDE
 
 ### [3. Mock the api](https://github.com/avdev4j/workshop-openapi/blob/master/3.%20Mock-the-api.md)
 
-### Add a business code 
-add code
-re-run test
+### [4. Add a business code](https://github.com/avdev4j/workshop-openapi/blob/master/4.%20Add-a-business-code.md)
 
 ### Consume an API 
 create a new jhipster application
