@@ -2,7 +2,7 @@
  JHipster workshop to learn how to develop an api with API first design.
  
 ## API-First Approach
-To fully understand the workshop you need to be familiar with the API-First design, you can find a lot of resources about
+To fully understand the workshop, you need to be familiar with the API-First design, you can find a lot of resources about
 it on the internet.
 I suggest you to start with reading this article: https://swagger.io/resources/articles/adopting-an-api-first-approach/
 
