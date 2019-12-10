@@ -34,6 +34,7 @@ For more informations: https://www.jhipster.tech/installation/
 create a new jhipster application
 run open-api client sub generator
 
+## Tools
 ### IDE
 You can choose your favorite IDE. To be effective having a swagger plugin is advised.
 
