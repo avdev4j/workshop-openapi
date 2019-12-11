@@ -30,7 +30,7 @@ For more informations: https://www.jhipster.tech/installation/
 
 ### [4. Add a business code](https://github.com/avdev4j/workshop-openapi/blob/master/4.%20Add-a-business-code.md)
 
-### [5. Consume an API with the openapi sub-generator](https://github.com/avdev4j/workshop-openapi/blob/master/5.%20Consume-API-with-openapi-subgenerator.md)
+### [5. Consume the workshop API with another JHipster application](https://github.com/avdev4j/workshop-openapi/blob/master/5.%20Consume-API-with-openapi-subgenerator.md)
 
 ## Tools
 ### IDE
